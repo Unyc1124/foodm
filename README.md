@@ -63,9 +63,17 @@ c. Delete Plan: When a meal plan is tapped, it is deleted from the list, and the
 This app serves as an efficient solution for managing meal plans with persistent storage and reactive state management. MobX is ideal for this small-scale app due to its simplicity and reactivity. SharedPreferences ensures that meal plans are stored and retrieved seamlessly between app sessions, providing a consistent user experience.
 
 10. Screenshots:
-[Meal Plan Screenshot](C:/Users/aditi/OneDrive/Desktop/foodm/assets/image 1.jpg)
+[SplashScreen](https://github.com/Unyc1124/foodm/blob/main/assets/image%201.jpg)
+[Meal Plan Screen](https://github.com/Unyc1124/foodm/blob/main/assets/image%202.jpg)
+[Add Plan Screen 1](https://github.com/Unyc1124/foodm/blob/main/assets/image%203.jpg)
+[Add Plan Screen 2](https://github.com/Unyc1124/foodm/blob/main/assets/image%204.jpg)
+[Navigation Tab ](https://github.com/Unyc1124/foodm/blob/main/assets/image%205.jpg)
+[Set Plan 1 ](https://github.com/Unyc1124/foodm/blob/main/assets/image%206.jpg)
+[Set Paln 2 minimal functionalities](https://github.com/Unyc1124/foodm/blob/main/assets/image%207.jpg)
 
-## Video Demo:
+
+
+ Video Demo:
 [Watch the demo video](https://youtube.com/your-video-url)
 
 
