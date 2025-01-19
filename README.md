@@ -64,7 +64,7 @@ This app serves as an efficient solution for managing meal plans with persistent
 
 10. Screenshots:
 [1.SplashScreen](https://github.com/Unyc1124/foodm/blob/main/assets/image%201.jpg)
-[2.Meal Plan Screen](https://github.com/Unyc1124/foodm/blob/main/assets/image%202.jpg)
+[\n2.Meal Plan Screen](https://github.com/Unyc1124/foodm/blob/main/assets/image%202.jpg)
 [3.Add Plan Screen 1](https://github.com/Unyc1124/foodm/blob/main/assets/image%203.jpg)
 [4.Add Plan Screen 2](https://github.com/Unyc1124/foodm/blob/main/assets/image%204.jpg)
 [5.Navigation Tab ](https://github.com/Unyc1124/foodm/blob/main/assets/image%205.jpg)
