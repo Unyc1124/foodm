@@ -71,7 +71,7 @@ This app serves as an efficient solution for managing meal plans with persistent
 [Set Plan 1 ](https://github.com/Unyc1124/foodm/blob/main/assets/image%206.jpg)
 [Set Paln 2 minimal functionalities](https://github.com/Unyc1124/foodm/blob/main/assets/image%207.jpg)
 
-11. Demo Light Theme Video
-[Watch the demo video]()
+11. Demo Light Theme Video (Note: Actual App is properly maintained with dark theme as per the assignment )
+[Watch the demo video](https://github.com/Unyc1124/foodm/blob/main/assets/foodapp.mp4)
 
 
